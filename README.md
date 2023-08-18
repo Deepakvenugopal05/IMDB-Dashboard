@@ -1,4 +1,3 @@
-# IMDB-Dashboard
 # IMDB Dashboard Project
 
 ## Description
@@ -58,8 +57,11 @@ The project utilizes the IMDB dataset, available at https://www.kaggle.com/datas
 Contributions to this project are welcome! If you'd like to contribute, please follow these steps:
 
 1)Fork the repository.
+
 2)Create a new branch for your feature or bug fix.
+
 3)Make your changes and test them thoroughly.
+
 4)Submit a pull request, describing your changes and the problem they solve.
 
 
